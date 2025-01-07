@@ -18,3 +18,4 @@ Place and Route Tools:
 Cadence Innovus, Synopsys IC Compiler, and Mentor Olympus-SoC are used for optimizing the placement of components and routing the interconnections on the chip.
 Timing Analysis Tools:
 Synopsys PrimeTime, Cadence Tempus, and Mentor Calibre check timing violations, ensuring that signals meet required performance constraints.
+**OUTPUT OF TASK 1**:[CODTECH TASK 1.zip](https://github.com/user-attachments/files/18327769/CODTECH.TASK.1.zip)
